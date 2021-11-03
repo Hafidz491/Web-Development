@@ -1,2 +1,5 @@
 WEB DEVELOPMENT
 - Akan berisi project pembuatan web kedepan
+- list web:
+-web e-commerce
+-web agen travel
