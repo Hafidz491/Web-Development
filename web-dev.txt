@@ -2,5 +2,4 @@ WEB DEVELOPMENT
 - Akan berisi project pembuatan web kedepan
 - list web:
 -1. web e-commerce
--2. web agen travel
 -menjadi pro dalam bidang programmer
