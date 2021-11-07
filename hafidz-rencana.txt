@@ -1,5 +1,7 @@
 rencana konten hafidz
 
 prjoect web travel
+  1. dalam negeri
+  2. luar negeri
 HTML5
 CSS STYLE
