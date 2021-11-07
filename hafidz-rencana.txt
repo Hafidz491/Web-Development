@@ -6,5 +6,6 @@ prjoect web travel
 HTML5
   1. belajar tag
 CSS STYLE
-fundamental sctructural
 bikin web toko online
+frame work java
+  1. vue js
